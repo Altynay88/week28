@@ -1,4 +1,6 @@
+Сделайте задание из недели 27 (про тарифы) интерактивным - добавьте возможность выбирать тариф нажатием на него.
 
+![image-28-12-22-09-07](https://user-images.githubusercontent.com/79243168/147579852-29a328a1-01ce-4f40-a117-718c3326d83b.gif)
 
 # Getting Started with Create React App
 
@@ -28,10 +30,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-Сделайте задание из недели 27 (про тарифы) интерактивным - добавьте возможность выбирать тариф нажатием на него.
-
-![image-28-12-22-09-07](https://user-images.githubusercontent.com/79243168/147579852-29a328a1-01ce-4f40-a117-718c3326d83b.gif)
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
