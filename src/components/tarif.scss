@@ -1,0 +1,93 @@
+$color-light: #ffffff;
+$color-dark: #2c272e;
+
+.card-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 60px;
+  font-size: 18px;
+  border-bottom: 1px solid $color-light;
+  color: $color-light;
+}
+
+.card-main {
+  display: flex;
+  flex-direction: column;
+  height: 180px;
+  border-bottom: 1px solid $color-light;
+  color: $color-light;
+  font-size: 54px;
+}
+
+.card-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 60px;
+  border-bottom: 1px solid $color-light;
+  color: $color-dark;
+}
+
+.card-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 90px;
+  border-bottom: 1px solid $color-light;
+  color: $color-dark;
+}
+
+.main-cost {
+  padding-top: 40px;
+  margin-left: -140px;
+  font-size: 16px;
+}
+
+.main-month {
+  margin-left: 140px;
+  font-size: 16px;
+}
+
+#tarif-one .card-header {
+  background-color: #3e8e7e;
+}
+
+#tarif-one .card-main {
+  background-color: #7cd1b8;
+}
+
+#tarif-two .card-header {
+  background-color: #064635;
+}
+
+#tarif-two .card-main {
+  background-color: #519259;
+}
+
+#tarif-three .card-header {
+  background-color: #a13333;
+}
+
+#tarif-three .card-main {
+  background-color: #ff5959;
+}
+
+#tarif-four .card-header {
+  background-color: #212121;
+}
+
+#tarif-four .card-main {
+  background-color: #152d35;
+}
+.card-text {
+  background-color: #f0ece3;
+}
+
+.card-footer {
+  background-color: #dfd3c3;
+}
+
+.selected {
+  padding-top: 5px;
+}

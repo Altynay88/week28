@@ -1,0 +1,19 @@
+.App {
+  align-items: center;
+  width: 90%;
+  padding-top: 5px;
+  padding-bottom: 50px;
+  margin: 0 auto;
+  background-color: #E6E6E6;
+ 
+}
+
+.container{
+  display: flex;
+  column-gap:1px;
+  flex-direction: row;
+  margin:0 auto;
+  margin-top: 50px;
+  width: 70%;
+  text-align: center;
+}
